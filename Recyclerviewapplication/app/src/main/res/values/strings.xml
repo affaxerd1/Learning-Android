@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Recycler view application</string>
+
+    <string-array name="car_names">
+        <item>Chevrolet</item>
+        <item>Porche</item>
+        <item>Mercedes</item>
+        <item>dodge</item>
+        <item>converse</item>
+    </string-array>
+
+    <string-array name="support_email">
+        <item>support@chevrolet.com</item>
+        <item>support@porsche.com</item>
+        <item>support@mercedes.com</item>
+        <item>support@dodge.com</item>
+        <item>support@converse.com</item>
+    </string-array>
 </resources>
